@@ -1,13 +1,14 @@
 # Welcome to Justin's Favorite Songs🤞!
->Made By: Justin M. Tresvalles of 9-Ogilvie
 
 ---
 ## Normal Girl - SZA
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jQwbtqmx8RgFgaWSXMflg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > "This time next year, I'll be living so good
-Won't remember your name, I swear
-Living so good, living so good, living so good"
+> 
+> Won't remember your name, I swear
+> 
+> Living so good, living so good, living so good"
 
 <iframe width="950" height="534" src="https://www.youtube.com/embed/_R2LiwXtuLQ" title="SZA - Normal Girl (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
