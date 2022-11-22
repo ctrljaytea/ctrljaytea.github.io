@@ -1,14 +1,15 @@
-# Welcome to Justin's Photo Gallery🤞!
+# Welcome to Justin's Favorite Songs🤞!
 >Made By: Justin M. Tresvalles of 9-Ogilvie
 
 ---
-  
-A playlist to help you go through the gallery:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/77SIBqiFX85HZHfOz4mby5?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Normal Girl - SZA
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jQwbtqmx8RgFgaWSXMflg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
----
-## Ateneo De Naga University From the Inside
-![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/307840929_912317846393196_3519459064833064428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=84Vux3oaN2AAX8S7wuQ&tn=dsJE_qWjBhVDP2Wi&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdT-kCp0WnhRcYl1GMlNyHB88hgfOM0XqmrojjP9MChG3A&oe=639DA4DE)
+> "This time next year, I'll be living so good
+Won't remember your name, I swear
+Living so good, living so good, living so good"
+
+<iframe width="950" height="534" src="https://www.youtube.com/embed/_R2LiwXtuLQ" title="SZA - Normal Girl (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sunset View of Daet
 ![alt text](https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.15752-9/310199855_1308279656576456_3719040659332862977_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=_xIPRd5VSIIAX8a0nlE&_nc_oc=AQmuR6NRFDbjpfFBPqe05bsrdFucC52AszdmZkMRvub8fOxoM_jHSif83pH_iDP9LWI&_nc_ht=scontent.fwnp1-1.fna&oh=03_AdSm58-cgQ4WHHGgcdidRlfPui0QH-QkZ3eoD_vgyA8UFQ&oe=639DA84C)
