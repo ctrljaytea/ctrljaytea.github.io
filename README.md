@@ -1,7 +1,9 @@
 # Justin's Favorite Songs🤞!
+---
 
 ## Normal Girl - SZA
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jQwbtqmx8RgFgaWSXMflg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+"This time next year, I'll be living so good won't remember your name, I swear. Living so good, living so good, living so good"
 
 
 ## Coastin' - Victoria Monét
@@ -10,6 +12,7 @@
 
 ## Good Days - SZA
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YJJjQPAbDT7mGpX3WtQ9A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+"Half of us layin' waste to our youth, is in the present"
 
 
 ## Session 33
