@@ -23,17 +23,20 @@
 
 ## Session 33 - Summer Walker
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4inX9Y1jFsNwplOGipeAef?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-"But you refuse to match up with my vibe"
+
+	 "But you refuse to match up with my vibe"
 
 
 ## Dead To Me - Kali Uchis
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LOZws7T3jqZz78unPgFF9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-"You're obsessed, just let me go"
+
+	 "You're obsessed, just let me go"
 
 
 ## Love is A Game - Adele
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2j3GxEsbNYNeEzz86wDY4J?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-"That love is a game for fools to play"
+
+	 "That love is a game for fools to play"
 
 
 My Socials
